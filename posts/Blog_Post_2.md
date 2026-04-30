@@ -1,5 +1,5 @@
 ---
-title: Choosing Our Idea: Group Discussion, Research and Early Planning
+title: Choosing Our Idea - Group Discussion, Research and Early Planning
 date: 2026-04-21
 author: Noah Bloom
 summary: In this post our group compared early community ideas, chose home cooks as our direction, and used early research to identify the risk of becoming a generic recipe sharing platform.
@@ -11,7 +11,7 @@ tags:
   - Home cooks
 ---
 
-## Choosing Our Idea: Group Discussion, Research and Early Planning
+## Choosing Our Idea - Group Discussion, Research and Early Planning
 
 After the first stage of idea generation, the next step was to compare our ideas as a group and decide which community had the strongest potential for the BlaBla Corp community hub. Our main focus was to consider not only what seemed interesting, but also what could realistically support repeat interaction, user-generated content, and a clear prototype direction.
 
@@ -31,7 +31,7 @@ However, there was also an important segment in our meeting where we discussed h
 
 To explore this, I conducted online ethnography while Sanjana conducted competitor analysis. I did this by observing how home cooks interact on existing platforms such as recipe websites, Reddit-style cooking forums, TikTok cooking comments, Pinterest recipe boards, and other food communities. A clear pattern was that people were not only looking for finished recipes. They were often asking practical questions: how to substitute ingredients, how to fix mistakes, how to adapt recipes for dietary needs, or whether a method would still work with different equipment. This suggested that home cooking is often collaborative and problem-solving based.
 
-![Online ethnography notes](../assets/images/blog2-online-ethnography.jpg)
+![Online ethnography notes](assets/images/Online_Ethnography.png)
 
 *Figure 3: Online ethnography notes showing observed behaviours such as substitution questions, feedback, recipe fixes and adaptations.*
 
