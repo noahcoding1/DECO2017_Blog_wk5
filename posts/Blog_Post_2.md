@@ -1,5 +1,5 @@
 ---
-title: Choosing Our Idea - Group Discussion, Research and Early Planning
+title: Blog post 2
 date: 2026-04-21
 author: Noah Bloom
 summary: In this post our group compared early community ideas, chose home cooks as our direction, and used early research to identify the risk of becoming a generic recipe sharing platform.

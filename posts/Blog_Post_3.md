@@ -1,5 +1,5 @@
 ---
-title: From Concept to Wireframes - Bringing the Home Cooking Hub to Life
+title: Blog post 3
 date: 2026-05-01
 author: Noah Bloom
 summary: This post is the journey on how wireframing helped us move from a broad home cooking concept into clearer pages, layouts and components for the prototype.
